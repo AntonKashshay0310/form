@@ -52,3 +52,30 @@
   fill: #2196F3;
 
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal__title {
+margin-bottom: 30px;
+color: #3E3E3E;
+font-family: "Apercu Arabic Pro";
+font-size: 40px;
+font-weight: 400;
+line-height: 130%;
+}
+
+.modal__label {
+
+}
+
+
+.modal__input {
+border-radius: 10px;
+border: 1px solid #DCDCDC;
+background: #FFF;
+width: 557px;
+padding: 30px 46px;
+}
